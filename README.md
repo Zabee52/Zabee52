@@ -1,4 +1,4 @@
-[![Zabee52's GitHub stats](https://github-readme-stats.vercel.app/api?username=zabee52&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Zabee52's GitHub stats](https://github-readme-stats.vercel.app/api?username=zabee52&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### Stack
 ![image](https://camo.githubusercontent.com/d93e16d454115ff5f4da3ca9f284c70d560b41d129e19ce003ec936bfaab3347/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
 ![image](https://camo.githubusercontent.com/04c78162100c7b653d930ff3fee92a41e38f92da8bdc16d4262403a0c87eb54f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67626f6f742d34373f7374796c653d666c6174266c6f676f3d537072696e67626f6f74266c6f676f436f6c6f723d7768697465)
