@@ -1,22 +1,14 @@
-[![Zabee52's GitHub stats](https://github-readme-stats.vercel.app/api?username=zabee52&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-### Stack
-![image](https://camo.githubusercontent.com/d93e16d454115ff5f4da3ca9f284c70d560b41d129e19ce003ec936bfaab3347/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
-![image](https://camo.githubusercontent.com/04c78162100c7b653d930ff3fee92a41e38f92da8bdc16d4262403a0c87eb54f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67626f6f742d34373f7374796c653d666c6174266c6f676f3d537072696e67626f6f74266c6f676f436f6c6f723d7768697465)
-![image](https://camo.githubusercontent.com/6dd2c145d75c87250211093c4afb7a8ee23fd81972dff717b5d39d0974b13055/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 
-### Blog
+## 🌐Socials
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zabees2) 
 [Tistory](https://dazbee.tistory.com/)
-<!--
-**Zabee52/Zabee52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Zabee52&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zabee52&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zabee52&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Zabee52&theme=flat&no-frame=false&no-bg=false&margin-w=4)
