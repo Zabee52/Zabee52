@@ -1,6 +1,6 @@
 
 ## 🌐Socials
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zabees2)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zabees2) 
 [![Tistory](https://img.shields.io/badge/Tistory-3874D8?style=for-the-badge")](https://dazbee.tistory.com/)
 
 # 💻Tech Stack
